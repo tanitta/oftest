@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="oftest">
+		<Project filename="oftest.cbp" active="1">
+			<Depends filename="../of_v0.8.1_linux_release/libs/openFrameworksCompiled/project/linux/libopenFrameworks.cbp" />
+		</Project>
+		<Project filename="../of_v0.8.1_linux_release/libs/openFrameworksCompiled/project/linux/libopenFrameworks.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
